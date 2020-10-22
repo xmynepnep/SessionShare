@@ -1,0 +1,11 @@
+server:
+  port: 9202
+
+spring:
+  application:
+    name: manager
+  redis:
+    database: 1
+    host: 127.0.0.1
+    password:
+    port: 6379
